@@ -27,8 +27,6 @@ public class XpathCss {
     @Test
     public void TC_01_EmptyData() {
 
-//        String loginPageUrl = driver.getCurrentUrl();
-//        Assert.assertEquals(loginPageUrl, "https://alada.vn/tai-khoan/dang-ky.html");
         driver.findElement(By.xpath("//form[@id='frmLogin']//button[text()='ĐĂNG KÝ']")).click();
 
         //verify
