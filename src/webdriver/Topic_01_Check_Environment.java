@@ -28,6 +28,7 @@ public class Topic_01_Check_Environment {
         // Login Page Url matching
         String loginPageUrl = driver.getCurrentUrl();
         Assert.assertEquals(loginPageUrl, "https://www.facebook.com/");
+
     }
 
     @Test
@@ -46,5 +47,9 @@ public class Topic_01_Check_Environment {
     @AfterClass
     public void afterClass() {
         driver.quit();
+    }
+
+    public void  sleepInSecond(long timeSecond) throws InterruptedException {
+        Thread.sleep(timeSecond*1000);
     }
 }
