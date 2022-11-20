@@ -68,6 +68,36 @@ public class Topic_18_Window_Tab {
         closeTabs(parentTabId);
     }
 
+    @Test
+    public void TC_02_Window() throws InterruptedException {
+        driver.get("http://live.techpanda.org/");
+        driver.findElement(By.xpath("//nav[@id='nav']//a[text()='Mobile']")).click();
+
+        // add Sony to compare
+        driver.findElement(By.xpath("//a[@title ='Sony Xperia']/parent::h2/following-sibling :: div[@class='actions']//a[@class ='link-compare']")).click();
+        Assert.assertEquals(driver.findElement(By.xpath("//ul[@class='messages']")).getText(), "The product Sony Xperia has been added to comparison list.");
+
+        // add Samsung to compare
+        driver.findElement(By.xpath("//a[@title ='Samsung Galaxy']/parent::h2/following-sibling :: div[@class='actions']//a[@class ='link-compare']")).click();
+        Assert.assertEquals(driver.findElement(By.xpath("//ul[@class='messages']")).getText(), "The product Samsung Galaxy has been added to comparison list.");
+
+        driver.findElement(By.xpath("//button[@class='button']//span[text()='Compare']")).click();
+
+        //switch to Tiki tab and verify title
+        switchToOtherTabByPageTitle(" Products Comparison List - Magento Commerce");
+        Assert.assertEquals(driver.getTitle(), "Products Comparison List - Magento Commerce");
+        driver.close();
+
+        // switch to parent page
+        switchToOtherTabByPageTitle("Mobile");
+        driver.findElement(By.xpath("//a[text()='Clear All']")).click();
+
+        driver.switchTo().alert().accept();
+        Assert.assertEquals(driver.findElement(By.xpath("//ul[@class='messages']")).getText(), "The comparison list was cleared.");
+
+
+
+    }
 
     @AfterClass
     public void afterClass() {
