@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Run All" parallel="tests" thread-count="1">
+
+    <test name="Run All" group-by-instances="true">
+        <classes>
+            <class name="webdriver.Topic_07_Textbox_Textarea"/>
+            <class name="webdriver.Topic_08_Dropdown"/>
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
