@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/library/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/library/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

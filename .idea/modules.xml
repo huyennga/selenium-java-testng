@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/JavaBasic2/JavaBasic2.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/JavaBasic2/JavaBasic2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/action.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/actions.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/automation.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/javabasic/javabasic.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/javabasic/javabasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/selenium-java-testng.iml" filepath="$PROJECT_DIR$/selenium-java-testng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/testData/testData.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/testData/testData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/testcases/testcases.iml" filepath="$PROJECT_DIR$/../../001_LEARNING/Framword_Automation/automation/testcases/testcases.iml" />
     </modules>
   </component>
 </project>
