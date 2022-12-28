@@ -1,0 +1,31 @@
+
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ëû¹þÿÿÿÿ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëê‚ƒþÿÿÿÿ
+>
+java:S16048"(Make this anonymous inner class a lambda(îñÐÆ
+C
+java:S1604T"(Make this anonymous inner class a lambda(™ï–èüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯¶¾£øÿÿÿÿ
+Z
+java:S1854+"?Remove this useless assignment to local variable "pollingTime".(¦±êòúÿÿÿÿ
+V
+java:S1854*";Remove this useless assignment to local variable "allTime".(¹Ç¾çýÿÿÿÿ
+T
+java:S1117'">Rename "fluentWait" which hides the field declared at line 24.(ï¤ö˜
+E
+java:S1481'"/Remove this unused "fluentWait" local variable.(ï¤ö˜
+W
+java:S1117("ARename "fluentElement" which hides the field declared at line 25.(åõÍþ
+H
+java:S1481("2Remove this unused "fluentElement" local variable.(åõÍþ
+V
+java:S1117*";Rename "allTime" which hides the field declared at line 27.(¹Ç¾çýÿÿÿÿ
+G
+java:S1481*",Remove this unused "allTime" local variable.(¹Ç¾çýÿÿÿÿ
+Z
+java:S1117+"?Rename "pollingTime" which hides the field declared at line 28.(¦±êòúÿÿÿÿ
+K
+java:S1481+"0Remove this unused "pollingTime" local variable.(¦±êòúÿÿÿÿ
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¯þ½úÿÿÿÿ

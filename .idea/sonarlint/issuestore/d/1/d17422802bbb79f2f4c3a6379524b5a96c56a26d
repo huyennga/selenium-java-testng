@@ -1,0 +1,8 @@
+
+p
+java:S1192-"UDefine a constant instead of duplicating this literal "button.fhs-btn-login" 3 times.(‘°ó×ùÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åË»q
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öüºn
+S	java:S1068"9Replace this use of System.out or System.err by a logger.( õÊıÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(‘ïÚüÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ

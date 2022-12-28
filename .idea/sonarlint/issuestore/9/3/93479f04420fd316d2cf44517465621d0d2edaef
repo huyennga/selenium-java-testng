@@ -1,0 +1,8 @@
+
+r
+java:S11926"WDefine a constant instead of duplicating this literal "//img[contains(@src, '" 4 times.(Òƒåıÿÿÿÿ
+q
+java:S1192'"VDefine a constant instead of duplicating this literal "//input[@type='file']" 3 times.(ù„·»øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øÕ™úÿÿÿÿ
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜêŒŠûÿÿÿÿ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€İ‹©üÿÿÿÿ

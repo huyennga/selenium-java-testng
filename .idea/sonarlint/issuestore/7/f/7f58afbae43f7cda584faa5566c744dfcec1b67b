@@ -1,0 +1,12 @@
+
+l
+java:S1192:"VDefine a constant instead of duplicating this literal "List  element number " 3 times.(’ƒ’ú
+r
+java:S1192%"WDefine a constant instead of duplicating this literal "//input[@type='email']" 4 times.(¦æŠÌùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«º¥
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ç¹—úÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¼Á şÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(’ƒ’ú
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(’ƒ’ú
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(’ƒ’ú
+V	java:S125N"<This block of commented-out lines of code should be removed.(éå·üÿÿÿÿ

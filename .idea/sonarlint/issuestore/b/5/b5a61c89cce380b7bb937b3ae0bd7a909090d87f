@@ -1,0 +1,18 @@
+
+t
+java:S1192„"]Define a constant instead of duplicating this literal "//ul//li/span[text()='Quit']" 4 times.(‹†¡ß
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âóòèşÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÇôÄÿÿÿÿÿ
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´øÈ¬
+V	java:S125,"<This block of commented-out lines of code should be removed.(°£¡“úÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¶ÎÎùÿÿÿÿ
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùï¾Ù
+c	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïûÃÌ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºõ£¤úÿÿÿÿ
+’
+java:S1130s"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ºõ£¤úÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¼ç­ıÿÿÿÿ
+“
+java:S1130€"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(·¼ç­ıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(™ùãğıÿÿÿÿ
+d	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Å©È

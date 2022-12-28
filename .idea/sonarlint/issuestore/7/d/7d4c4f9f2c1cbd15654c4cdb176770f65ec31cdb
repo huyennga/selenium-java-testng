@@ -1,0 +1,19 @@
+
+m
+java:S1192+"RDefine a constant instead of duplicating this literal "//p[@id='result']" 4 times.(¼ÅÕ¯ùÿÿÿÿ
+[
+java:S1192r"FDefine a constant instead of duplicating this literal "admin" 4 times.(ùø–}
+
+java:S1192"uDefine a constant instead of duplicating this literal "https://automationfc.github.io/basic-form/index.html" 3 times.(²ÇşÚøÿÿÿÿ
+’
+java:S1192i"wDefine a constant instead of duplicating this literal "Congratulations! You must have the proper credentials." 3 times.(—î—ûÿÿÿÿ
+u
+java:S1192i"ZDefine a constant instead of duplicating this literal "//div[@class='example']/p" 3 times.(—î—ûÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘äù/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğóí½øÿÿÿÿ
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦×‹Ñûÿÿÿÿ
+b	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šƒæ8
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÑ¨üÿÿÿÿÿ
+c	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¡Ô·
+h	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¿‰Ôüÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ

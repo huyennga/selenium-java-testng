@@ -1,0 +1,19 @@
+
+\
+java:S1192@"FDefine a constant instead of duplicating this literal "value" 3 times.(İ®“‚
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚·Ö÷
+[
+java:S1659"EDeclare "lastName" and all following declarations on a separate line.(âŒˆÖ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶áÙ¦
+9
+java:S2119#"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+c	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ûÏ‡
+S
+java:S1854P"8Remove this useless assignment to local variable "rand".(šŸ«íøÿÿÿÿ
+9
+java:S2119P"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+D
+java:S1481P")Remove this unused "rand" local variable.(šŸ«íøÿÿÿÿ
+U
+java:S1117S":Rename "select" which hides the field declared at line 22.(­ŠÙûÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(óë¾Ù

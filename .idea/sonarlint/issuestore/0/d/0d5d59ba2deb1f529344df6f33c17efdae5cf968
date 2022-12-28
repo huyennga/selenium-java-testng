@@ -1,0 +1,10 @@
+
+r
+java:S1192:"WDefine a constant instead of duplicating this literal "//img[contains(@src, '" 4 times.(Òƒåıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò¹èÿÿÿÿÿ
+o	java:S116"[Rename this field "ChromePathOnFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­áú\
+t	java:S116"`Rename this field "ChromePathMultiplFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øó«P
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìßˆœ
+c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì½¶ò
+a
+java:S1130@"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(Ì½¶ò

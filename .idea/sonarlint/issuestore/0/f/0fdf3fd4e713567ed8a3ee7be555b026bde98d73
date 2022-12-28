@@ -1,0 +1,39 @@
+
+`
+java:S11922"JDefine a constant instead of duplicating this literal "123456789" 4 times.(ü¡½ä
+h
+java:S11923"MDefine a constant instead of duplicating this literal "txtCPassword" 5 times.(–Á ¨øÿÿÿÿ
+c
+java:S1192/"MDefine a constant instead of duplicating this literal "txtFirstname" 5 times.(²ú‘Û
+e
+java:S1192&"ODefine a constant instead of duplicating this literal "txtPhone-error" 3 times.(Ü¹òÉ
+]
+java:S1192i"GDefine a constant instead of duplicating this literal "123456" 3 times.(úÙ³‘
+n
+java:S1192%"SDefine a constant instead of duplicating this literal "txtCPassword-error" 3 times.(¨ÛÒ¡üÿÿÿÿ
+ƒ
+java:S1192"hDefine a constant instead of duplicating this literal "https://alada.vn/tai-khoan/dang-ky.html" 6 times.(ÓÚï°ıÿÿÿÿ
+i
+java:S1192C"NDefine a constant instead of duplicating this literal "nga@gmail.com" 6 times.(”¿úÿÿÿÿ
+b
+java:S11922"LDefine a constant instead of duplicating this literal "txtPassword" 5 times.(ü¡½ä
+d
+java:S11924"IDefine a constant instead of duplicating this literal "txtPhone" 7 times.(é‚·ìşÿÿÿÿ
+f
+java:S11924"KDefine a constant instead of duplicating this literal "0909232564" 4 times.(é‚·ìşÿÿÿÿ
+e
+java:S1192#"PDefine a constant instead of duplicating this literal "txtCEmail-error" 3 times.(œ ¾<
+d
+java:S11920"IDefine a constant instead of duplicating this literal "txtEmail" 5 times.(öù”úÿÿÿÿ
+`
+java:S1192/"JDefine a constant instead of duplicating this literal "Nga Hoang" 5 times.(²ú‘Û
+
+java:S1192"tDefine a constant instead of duplicating this literal "//form[@id='frmLogin']//button[text()='ÄÄ‚NG KÃ']" 7 times.(´ı¥«ûÿÿÿÿ
+e
+java:S11921"JDefine a constant instead of duplicating this literal "txtCEmail" 5 times.(÷Ìœ´ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºåÆå
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûâÛÂıÿÿÿÿ
+b	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÇÂ=
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îäîÛúÿÿÿÿ
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯±ıâ
+c	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÔŒü

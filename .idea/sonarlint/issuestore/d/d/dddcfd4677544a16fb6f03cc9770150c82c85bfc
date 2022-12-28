@@ -1,0 +1,12 @@
+
+o
+java:S11927"ZDefine a constant instead of duplicating this literal "//input[@id='newsletter']" 3 times.(©”°
+w
+java:S1192R"\Define a constant instead of duplicating this literal "Please fill out this field." 5 times.(çêïÍúÿÿÿÿ
+z
+java:S1488®"^Immediately return this expression instead of assigning it to the temporary variable "status".(¡•ÍÑıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åŸûÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¶™ÿÿÿÿÿ
+c	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨î³…
+:
+java:S2119½"Save and re-use this "Random".(šŸ«íøÿÿÿÿ

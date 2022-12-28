@@ -1,0 +1,11 @@
+
+t
+java:S1192&"YDefine a constant instead of duplicating this literal "//button[text()='Start']" 3 times.(‚ı½˜ûÿÿÿÿ
+j
+java:S1192)"TDefine a constant instead of duplicating this literal "//div[@id='finish']" 6 times.(û˜
+‹
+java:S1192""pDefine a constant instead of duplicating this literal "https://automationfc.github.io/dynamic-loading/" 3 times.(ÀØ¥˜ıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äô†µüÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ«ÙĞ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íú„¢
+c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶°¯°

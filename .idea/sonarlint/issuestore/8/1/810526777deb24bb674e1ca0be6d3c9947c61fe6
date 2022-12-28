@@ -1,0 +1,56 @@
+
+n
+java:S1192!"SDefine a constant instead of duplicating this literal "Automation Testing" 4 times.(ª»¹„øÿÿÿÿ
+
+java:S1192"uDefine a constant instead of duplicating this literal "https://automationfc.github.io/basic-form/index.html" 3 times.(²ÇşÚøÿÿÿÿ
+{
+java:S1192©"dDefine a constant instead of duplicating this literal "//li[@class='8-char not-completed']" 4 times.(ÙÎÑŞ
+ˆ
+java:S1192®"lDefine a constant instead of duplicating this literal "//li[@class='lowercase-char not-completed']" 3 times.(÷µëØøÿÿÿÿ
+k
+java:S1192"UDefine a constant instead of duplicating this literal "//input[@id='email']" 3 times.(ä÷¨î
+ƒ
+java:S1192¦"lDefine a constant instead of duplicating this literal "//li[@class='uppercase-char not-completed']" 4 times.(ìøÁ•
+s
+java:S1192/"XDefine a constant instead of duplicating this literal "//input[@id='under_18']" 3 times.(œ…ìÁøÿÿÿÿ
+
+java:S1192¨"jDefine a constant instead of duplicating this literal "//li[@class='special-char not-completed']" 4 times.(œÕ¤ñ
+…
+java:S1192§"iDefine a constant instead of duplicating this literal "//li[@class='number-char not-completed']" 4 times.(Æ©‘½ıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïİ¹€ÿÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¼éæşÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÌÆ¤°
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(–˜Ü¯úÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Æé©¢
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ó¿¡ú
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ïëÏ†
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(îŠÌÇùÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.( ßËõøÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Àû¬ß
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çš£¾
+h
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(çš£¾
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(‰ æ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(°‰×ùÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(Ùš¿°
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ƒƒ’ºûÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ôù¢‡
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(òÛªó
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¯€ß
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(™®‚Ëûÿÿÿÿ
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(¥¨”j
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(¡Á¹÷üÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(º†ëÓıÿÿÿÿ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(¦ŒÛ•
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(©®‡¯ÿÿÿÿÿ
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(´ÈÁp
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(³†ôÁúÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(¾é™˜ıÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ñ†ğ’
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(’®–óşÿÿÿÿ
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ôê—
+O	java:S106"9Replace this use of System.out or System.err by a logger.(óÕãâ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ªŠÜË
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(üÊ™‰
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(¡¤ÿ»
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„ÓÒ

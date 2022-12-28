@@ -1,0 +1,15 @@
+
+
+java:S11925"rDefine a constant instead of duplicating this literal "//a[@data-testid='open-registration-form-button']" 3 times.(”µ¶Ğıÿÿÿÿ
+t
+java:S11928"YDefine a constant instead of duplicating this literal "reg_email_confirmation__" 3 times.(¡ÙçÔûÿÿÿÿ
+u
+java:S1192!"ZDefine a constant instead of duplicating this literal "https://www.facebook.com/" 6 times.(ÚşÑâıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÍÖË
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½±äèıÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(ÕıÎ¢
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Œ·ğşÿÿÿÿ
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÀÇå
+c	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œ¿˜
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¯çŠ
+h	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‚–úÿÿÿÿ
